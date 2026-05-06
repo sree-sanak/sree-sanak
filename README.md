@@ -16,12 +16,12 @@
 
 ## Current Projects
 
-- 🌿 **[Minty](https://github.com/zalatar242/minty)** · Privacy-first personal CRM. Unifies WhatsApp, Gmail, LinkedIn, Telegram, and SMS into one searchable local database. Self-hosted; nothing leaves your machine.
-- 💳 **[Folio](https://github.com/zalatar242/folio)** · 0% interest credit line backed by your stocks. Neobank-style UX with real-time collar pricing.
-- 🧮 **[LLM Accounting](https://github.com/zalatar242/llm-accounting)** · Per-customer, per-feature, per-workflow cost tracking across OpenAI, Anthropic, Google, and OpenRouter.
-- 🤖 **[HumanOS](https://github.com/zalatar242/HumanOS)** · Marketplace where humans earn by contributing POV training data for humanoid robotics.
-- 🛡️ **[CoverMax](https://github.com/zalatar242/CoverMax-DeFi)** · Tranched insurance protocol with senior/junior risk allocation.
-- 📊 **[Dynamic Pricing](https://github.com/zalatar242/dynamic_pricing)** · Deliveroo Orders API webhook plus Jupyter notebooks measuring the revenue impact of dynamic pricing.
+- 🌿 **[Minty](https://github.com/sree-sanak/minty)** · Privacy-first personal CRM. Unifies WhatsApp, Gmail, LinkedIn, Telegram, and SMS into one searchable local database. Self-hosted; nothing leaves your machine.
+- 💳 **[Folio](https://github.com/sree-sanak/folio)** · 0% interest credit line backed by your stocks. Neobank-style UX with real-time collar pricing.
+- 🧮 **[LLM Accounting](https://github.com/sree-sanak/llm-accounting)** · Per-customer, per-feature, per-workflow cost tracking across OpenAI, Anthropic, Google, and OpenRouter.
+- 🤖 **[HumanOS](https://github.com/sree-sanak/HumanOS)** · Marketplace where humans earn by contributing POV training data for humanoid robotics.
+- 🛡️ **[CoverMax](https://github.com/sree-sanak/CoverMax-DeFi)** · Tranched insurance protocol with senior/junior risk allocation.
+- 📊 **[Dynamic Pricing](https://github.com/sree-sanak/dynamic_pricing)** · Deliveroo Orders API webhook plus Jupyter notebooks measuring the revenue impact of dynamic pricing.
 
 ### Closed Source
 
@@ -32,10 +32,10 @@
 
 ## GitHub Activity
 
-![Contribution Graph](https://ghchart.rshah.org/zalatar242)
+![Contribution Graph](https://ghchart.rshah.org/sree-sanak)
 
 ## Connect
 
 [![X](https://img.shields.io/badge/-@sree__sana5835-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sree_sana5835)
 [![LinkedIn](https://img.shields.io/badge/-Sree_Sanakkayala-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-sanakkayala/)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zalatar242)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sree-sanak)
